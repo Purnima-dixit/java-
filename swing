@@ -1,0 +1,12 @@
+import javax.swing.*;
+
+public class swing {
+    public static void main(String[] args){
+        JFrame x=new JFrame("window");
+
+        x.setVisible(true);
+        x.setSize(300,300);
+
+    }
+
+}
